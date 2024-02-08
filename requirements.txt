@@ -1,0 +1,8 @@
+APScheduler
+Flask
+Flask-SQLAlchemy
+numpy
+pytest
+redis==3.5.3
+requests
+requests-mock
